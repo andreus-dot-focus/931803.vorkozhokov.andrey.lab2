@@ -1,0 +1,13 @@
+.first__block {
+  width: 500px;
+  height: 100%;
+  margin: 20px auto;
+}
+
+.second__block {
+  width: 380px;
+  height: 100%;
+  margin: 0 auto;
+  padding: 50px;
+  border: 10px solid blue;
+}

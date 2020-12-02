@@ -1,0 +1,17 @@
+.first__block {
+  width: 500px;
+  height: 100%;
+  background-color: green;
+  color: #fff;
+  margin: 20px auto;
+}
+
+.second__block {
+  width: 500px;
+  height: 100%;
+  background-color: blue;
+  color: #fff;
+  margin: 0 auto;
+  padding: 30px;
+  border: 30px solid blue;
+}

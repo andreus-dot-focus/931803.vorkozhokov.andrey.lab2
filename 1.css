@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #eaeaea;
+  font-size: 35px;
+  font-weight: bold;
+  padding: 5px 0 60px 5px;
+}
+
+footer {
+  background-color: black;
+  padding: 5px;
+  text-align: center;
+}
+
+footer a {
+  color: #fde95e;
+}
+
+b {
+  font-size: 20px;
+}
+
+.content {
+  display: flex;
+}
+
+.left__column {
+  height: 100%;
+  width: 200px;
+  background-color: #c8fc98;
+  padding: 0 5px 5px;
+  line-height: 1.5;
+}
+.content__column {
+  width: 100%;
+  padding: 0 5px;
+  line-height: 1.5;
+}
+.subtext {
+  color: red;
+  font-style: italic;
+}

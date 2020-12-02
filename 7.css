@@ -1,0 +1,52 @@
+body {
+  margin: 5px;
+  color: #fff;
+}
+
+.one {
+  position: static;
+  background-color: blueviolet;
+  width: 150px;
+  height: 100px;
+}
+
+.two {
+  position: relative;
+  background-color: darkred;
+  width: 150px;
+  height: 100px;
+}
+
+.three {
+  position: relative;
+  background-color: peru;
+  width: 150px;
+  height: 100px;
+  top: -30px;
+  right: -30px;
+}
+
+.four {
+  position: relative;
+  background-color: indianred;
+  width: 700px;
+  height: 400px;
+}
+
+.five {
+  position: absolute;
+  right: 0;
+  bottom: 70px;
+  background-color: indigo;
+  width: 300px;
+  height: 200px;
+}
+
+.six {
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  background-color: forestgreen;
+  width: inherit;
+  height: 100px;
+}
